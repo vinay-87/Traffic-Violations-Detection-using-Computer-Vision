@@ -1,0 +1,28 @@
+{
+  "violation_id": "VIO_B37647CFCECE",
+  "type": "stop_line_violation",
+  "timestamp": "2026-06-21T17:41:52.684974Z",
+  "confidence": 0.7962548923492432,
+  "camera_id": "CAM_001",
+  "location": {
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "name": "Bengaluru"
+  },
+  "vehicle": {
+    "type": "car",
+    "plate_number": "",
+    "plate_confidence": 0.0
+  },
+  "details": {
+    "cross_ratio": "0.327"
+  },
+  "evidence": {
+    "snapshot": "/home/vinay/AI/projects/traffic_violation_system/data/processed/evidence/stop_line_violation_20260621_174154_CFCECE.jpg",
+    "video_clip": "/home/vinay/AI/projects/traffic_violation_system/data/processed/evidence/stop_line_violation_20260621_174154_CFCECE.mp4"
+  },
+  "processing": {
+    "model_version": "v1.0",
+    "inference_time_ms": 0.0
+  }
+}

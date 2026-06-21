@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.env
+*.egg-info/
+dist/
+build/
+data/violations.db
+models/*.pt
+output/
+*.mp4
+.DS_Store

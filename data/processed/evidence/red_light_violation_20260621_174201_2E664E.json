@@ -1,0 +1,29 @@
+{
+  "violation_id": "VIO_E788272E664E",
+  "type": "red_light_violation",
+  "timestamp": "2026-06-21T17:42:01.000056Z",
+  "confidence": 0.7946183109283448,
+  "camera_id": "CAM_001",
+  "location": {
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "name": "Bengaluru"
+  },
+  "vehicle": {
+    "type": "car",
+    "plate_number": "",
+    "plate_confidence": 0.0
+  },
+  "details": {
+    "stop_line_y": 468,
+    "vehicle_centroid_y": 532
+  },
+  "evidence": {
+    "snapshot": "/home/vinay/AI/projects/traffic_violation_system/data/processed/evidence/red_light_violation_20260621_174201_2E664E.jpg",
+    "video_clip": "/home/vinay/AI/projects/traffic_violation_system/data/processed/evidence/red_light_violation_20260621_174201_2E664E.mp4"
+  },
+  "processing": {
+    "model_version": "v1.0",
+    "inference_time_ms": 0.0
+  }
+}

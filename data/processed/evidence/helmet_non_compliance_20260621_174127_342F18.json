@@ -1,0 +1,29 @@
+{
+  "violation_id": "VIO_778902342F18",
+  "type": "helmet_non_compliance",
+  "timestamp": "2026-06-21T17:41:27.304246Z",
+  "confidence": 0.6877320170402527,
+  "camera_id": "CAM_001",
+  "location": {
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "name": "Bengaluru"
+  },
+  "vehicle": {
+    "type": "motorcycle",
+    "plate_number": "1",
+    "plate_confidence": 0.010563760623311479
+  },
+  "details": {
+    "helmet_worn": false,
+    "method": "head_region_analysis"
+  },
+  "evidence": {
+    "snapshot": "/home/vinay/AI/projects/traffic_violation_system/data/processed/evidence/helmet_non_compliance_20260621_174127_342F18.jpg",
+    "video_clip": "/home/vinay/AI/projects/traffic_violation_system/data/processed/evidence/helmet_non_compliance_20260621_174127_342F18.mp4"
+  },
+  "processing": {
+    "model_version": "v1.0",
+    "inference_time_ms": 0.0
+  }
+}

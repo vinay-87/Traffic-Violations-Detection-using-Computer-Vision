@@ -1,0 +1,28 @@
+{
+  "violation_id": "VIO_F0DD5A7FC2C3",
+  "type": "seatbelt_non_compliance",
+  "timestamp": "2026-06-21T17:41:46.357562Z",
+  "confidence": 0.39836905002594,
+  "camera_id": "CAM_001",
+  "location": {
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "name": "Bengaluru"
+  },
+  "vehicle": {
+    "type": "car",
+    "plate_number": "PC1",
+    "plate_confidence": 0.0026707594767186303
+  },
+  "details": {
+    "seatbelt_worn": false
+  },
+  "evidence": {
+    "snapshot": "/home/vinay/AI/projects/traffic_violation_system/data/processed/evidence/seatbelt_non_compliance_20260621_174146_7FC2C3.jpg",
+    "video_clip": "/home/vinay/AI/projects/traffic_violation_system/data/processed/evidence/seatbelt_non_compliance_20260621_174146_7FC2C3.mp4"
+  },
+  "processing": {
+    "model_version": "v1.0",
+    "inference_time_ms": 0.0
+  }
+}
